@@ -99,10 +99,9 @@ Troubleshooting activities included checking connectivity between CORE-SW2 and t
 ## Project Files
 
 - `AI_Data_Centre_Network_Operations.pkt` — Packet Tracer lab
-- `configs/` — Network device configurations
-- `screenshots/` — Network topology and test evidence
-- `docs/` — Network design documentation
-- `troubleshooting/` — Troubleshooting records
+- `Configs/` — Network device configurations
+- `Testing Evidence/` — test evidence
+- `Network_Topology/` — Network topology
 
 ## Project Scope and Limitations
 
